@@ -9,3 +9,8 @@ This article describes how a software engineer who used to work at Twitter was f
 This article brings up interesting topics about software engineering and ethics. What are the bounds between tech and free speech ? Should an employee honor the company that they work for ? If they have disagreements with the company such as company policies, what are proper ways of communicating them as opposed to posting sarcastic memes ? 
 
 Seeing how this software engineer behave made me wonder about the variety of people’s attitudes towards working in the software engineering industry. Some work extremely hard for an opportunity to work for a company like Twitter or Facebook, while others seem to have taken their career for granted. I wonder though, from a company’s perspective, will they be willing to retain someone who is technically talented but has a difficult personality, or a great personality but average skill sets?
+
+### Comments from Classmates
+
+#### Danica Jin (Github & Discord Name: dj9771)
+I found your question at the end of the last paragraph was very interesting. Technical talents and great personalities are both important factors for a software developer to reach career success. I think that's why most companies in IT industries now include behavior questions in their hiring process instead of only focusing on technical interviews.
